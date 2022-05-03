@@ -1056,3 +1056,8 @@
 3954	5088	1651573318096434963	dualcore_idf.elf	5d240d6753bbb606
 5088	5355	1651573318375000258	.bin_timestamp	2784b33e5e62d245
 5355	5472	0	esp-idf/esptool_py/CMakeFiles/app_check_size	f8d7e9bcaa56012f
+56	180	0	esp-idf/esptool_py/CMakeFiles/app_check_size	f8d7e9bcaa56012f
+56	260	1651570815000000000	bootloader-prefix/src/bootloader-stamp/bootloader-build	9f6fc238a909def9
+56	260	1651570815000000000	bootloader/bootloader.elf	9f6fc238a909def9
+56	260	1651570815000000000	bootloader/bootloader.bin	9f6fc238a909def9
+56	260	1651570815000000000	bootloader/bootloader.map	9f6fc238a909def9
